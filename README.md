@@ -54,7 +54,7 @@ Include a few screenshots of your website in this section to give users a visual
 
 If you'd like to contribute to this project, please follow these steps:
 
-1. Fork the repository.
+1. Fork the repository.`https://github.com/Uday124/react-redux-task.git`
 2. Create a new branch for your feature or fix: `git checkout -b feature-name`
 3. Make your changes and commit them.
 4. Push to your fork: `git push origin feature-name`
