@@ -1,6 +1,6 @@
 # Redux Shopping Cart Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shanmugamrskfamily/react-redux-task)
+![GitHub repo size]()
 
 <img src="./public/assets/Screenshot.png">
 
