@@ -38,7 +38,7 @@ Include a few screenshots of your website in this section to give users a visual
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/Shanmugamrskfamily/react-redux-task.git`
+1. Clone the repository: ``
 2. Change to the project directory: `cd react-redux-task`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -62,8 +62,8 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## Author
 
-- [SHANMUGAM R](https://github.com/Shanmugamrskfamily/)
-- <i class="fa fa-linkdln"></i>[LinkedIn Profile](https://www.linkedin.com/in/shanmugamrskfamily/)
+- [SHANMUGAM R]()
+- <i class="fa fa-linkdln"></i>[LinkedIn Profile]()
 
 ## License
 
