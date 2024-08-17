@@ -62,8 +62,8 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## Author
 
-- [SHANMUGAM R]()
-- <i class="fa fa-linkdln"></i>[LinkedIn Profile]()
+- [Udayram](https://github.com/Uday124)
+- <i class="fa fa-linkdln"></i>[LinkedIn Profile](https://www.linkedin.com/in/uday-ram-chityala/)
 
 ## License
 
