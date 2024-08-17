@@ -24,7 +24,7 @@ This project is a shopping cart website built with HTML, CSS, React, and Redux. 
 
 ## Demo
 
-Check out the live demo of the project [here]().
+Check out the live demo of the project [here](https://66c0b4de9b90ff8063d8d623--super-salamander-d04b29.netlify.app/).
 
 ## Screenshots
 
