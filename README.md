@@ -1,6 +1,6 @@
 # Redux Shopping Cart Website
 
-![GitHub repo size]()
+![GitHub repo size](https://github.com/Uday124?tab=repositories)
 
 <img src="./public/assets/Screenshot.png">
 
