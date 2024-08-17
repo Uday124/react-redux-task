@@ -24,7 +24,7 @@ This project is a shopping cart website built with HTML, CSS, React, and Redux. 
 
 ## Demo
 
-Check out the live demo of the project [here](https://react-redux-info-task.netlify.app).
+Check out the live demo of the project [here](https://react-redux-zen-task-info.netlify.app).
 
 ## Screenshots
 
